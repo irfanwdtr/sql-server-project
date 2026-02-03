@@ -25,6 +25,8 @@ JOIN sys.schemas s ON t.schema_id = s.schema_id
 ORDER BY s.name, t.name;
 ```
 **output :**
+![Output](images/image1.png)
+
 
 ## 2. sales_base_query
 tujuan :
@@ -80,6 +82,7 @@ JOIN production.brands b
 
 ```
 **output:**
+![Output](images/image2.png)
 
 ## 3. sales_summary
 Mengubah data detail menjadi ringkasan waktu
@@ -107,6 +110,7 @@ GROUP BY
 ORDER BY order_year, order_month;
 ```
 **output**
+![Output](images/image3.png)
 
 ## 4. product_performance
 Menilai produk mana yang paling berkontribusi
@@ -129,6 +133,8 @@ GROUP BY
 ORDER BY total_revenue DESC;
 ```
 **output :**
+![Output](images/image4.png)
+
 ## Dashboard
 
 
