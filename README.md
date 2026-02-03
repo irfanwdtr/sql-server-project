@@ -1,6 +1,6 @@
 ## Description
-This project analyzes BikeStores sales data using SQL Server (T-SQL).
-The output queries are designed to be directly integrated into Power BI.
+Proyek ini menganalisis data penjualan BikeStores menggunakan SQL Server (T-SQL). 
+hasil Kueri akan diintegrasikan langsung ke Power BI.
 
 # BikeStores SQL Project
 
