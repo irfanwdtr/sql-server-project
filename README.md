@@ -9,6 +9,7 @@ The output queries are designed to be directly integrated into Power BI.
 - [2. sales_base_query](#2-sales_base_query)
 - [3. sales_summary](#3-sales_summary)
 - [4. product_performance](#4-product_performance)
+- [5. dashboard](#5-dashboard)
 
 
 ## 1. check_schema
@@ -135,6 +136,6 @@ ORDER BY total_revenue DESC;
 **output :**
 ![Output](images/image4.png)
 
-## Dashboard
-
+## 5. Dashboard
+![Output](images/dashboard.png)
 
